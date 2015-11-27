@@ -23,12 +23,12 @@ a img {
 }
 
 a:link, a:visited {
-  color: #CF5C3F;
+  color: #0066FF;
   padding: 0 1px;
 }
 
 a:hover, a:active {
-  background-color: #CF5C3F;
+  background-color: #0066FF;
   color: #FFF;
 }
 
@@ -63,7 +63,7 @@ a:hover, a:active {
 
 .mainHeader nav a:hover, .mainHeader nav a:active,
 .mainHeader nav .active a:link, .mainHeader nav .active a:visited {
-  background-color: #CF5C3F;
+  background-color: #0066FF;
   color: #FFF;
   text-shadow: none;
 }
